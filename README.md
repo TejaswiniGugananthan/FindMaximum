@@ -14,7 +14,7 @@ i)	# To find the maximum of marks using the list method sort.
 ```Python
 #Program to mark the maximum of marks using the list method sort
 #Developed by: Tejaswini.G
-#RegisterNumber:22003358 
+#RegisterNumber:22004187
 
 def max_marks(marks):
     marks.sort()
